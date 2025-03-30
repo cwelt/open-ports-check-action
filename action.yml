@@ -5,7 +5,7 @@ inputs:
     description: 'Port for checking'
     required: true
   host:
-    description: 'Port for checking'
+    description: 'Host for checking'
     default: 'localhost'
   needFail:
     description: 'Fail step if port is not reachable'
